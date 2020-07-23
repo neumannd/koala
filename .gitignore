@@ -2,6 +2,7 @@
 *.nc
 *.jpeg
 *.jpg
+baby_koala.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
